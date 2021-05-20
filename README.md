@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi There, It's Me, <i>`Stoner`</i> 👋
+### `He/Him`
 
 <!--
 **SaxatileStoner/SaxatileStoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
