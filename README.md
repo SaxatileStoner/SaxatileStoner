@@ -1,9 +1,15 @@
 # Hi There, It's Me, <i>`SaxatileStoner`</i>! 👋
 
-## <i>`He/Him, They/Them`</i>
+## <b>`21`</b> <i>`He/Him, They/Them`</i>
 
 <br>
+
+###🏫 Education:
+AS
+BCompSc (in progress...)
+
 #### Advanced in:
+
 <i>Java, C++, Python</i>
 
 #### Learning:
