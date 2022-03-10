@@ -4,7 +4,7 @@
 
 <br>
 
-###🏫 Education:
+### 🏫 Education:
 
 <ul>
     <li>Associates of Science</li>
@@ -13,7 +13,7 @@
 
 <br>
 
-###💽 Programming Languages:
+### 💽 Programming Languages:
 
 #### Advanced in:
 
