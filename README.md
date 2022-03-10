@@ -1,5 +1,14 @@
-## Hi There, It's Me, <i>`Stoner`</i> 👋
-### `He/Him`
+# Hi There, It's Me, <i>`SaxatileStoner`</i>! 👋
+
+## <i>`He/Him, They/Them`</i>
+
+<br>
+#### Advanced in:
+<i>Java, C++, Python</i>
+
+#### Learning:
+
+<i>HTML, CSS, JavaScript, Rust</i>
 
 <!--
 **SaxatileStoner/SaxatileStoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
