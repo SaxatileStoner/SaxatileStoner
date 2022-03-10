@@ -13,15 +13,24 @@
 
 <br>
 
-### Programming Languages:
+###💽 Programming Languages:
 
 #### Advanced in:
 
-<i>Java, C++, Python</i>
+<ul>
+    <li>Java</li>
+    <li>C++</li>
+    <li>Python</li>
+</ul>
 
 #### Learning:
 
-<i>HTML, CSS, JavaScript, Rust</i>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Rust</li>
+</ul>
 
 <!--
 **SaxatileStoner/SaxatileStoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
