@@ -5,8 +5,15 @@
 <br>
 
 ###🏫 Education:
-AS
-BCompSc (in progress...)
+
+<ul>
+    <li>Associates of Science</li>
+    <li>Bachelor of Comp Science (in progress...)</li>
+</ul>
+
+<br>
+
+### Programming Languages:
 
 #### Advanced in:
 
