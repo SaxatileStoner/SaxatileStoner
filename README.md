@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 💽 Programming Languages:
+### 💽 Languages:
 
 #### Advanced in:
 
