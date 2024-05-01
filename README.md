@@ -27,12 +27,18 @@ Indie Game Developer
 ### 🔭 Projects
 
 Long term game development for `Project_Manifest`
+Looking to participate in game jams anytime
 
 ### 🏫 Education
 
+Associates Degree from Wayne Community College
+Bachlors Degree from Univesity of Maryland Global Campus
+
+### 💬 Contact
+
 <ul>
-    <li>Associates Degree from Wayne Community College</li>
-    <li>Bachlors Degree from Univesity of Maryland Global Campus</li>
+    <li>Discord - saxatile.stoner</li>
+    <li>Twitter - [SaxaphoneStone](https://twitter.com/SaxaphoneStone) </li>
 </ul>
 
 <br>
