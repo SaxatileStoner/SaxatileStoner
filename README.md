@@ -14,31 +14,28 @@ Here are some ideas to get you started:
 -->
 
 ### Hi There, It's Me, <i>`SaxatileStoner`</i> 👋
-<i>I go by Stoner too</i>
-
 ### <b>`24`</b> <i>`He/Him They/Them`</i>
 
 <br>
 
 ### ✌️ About Me
 
-Indie Game Developer
+<p>Indie Game Developer</p>
 
 ### 🔭 Projects
 
-Long term game development for `Project_Manifest`
-Looking to participate in game jams anytime
+<p>Long term game development for `Project_Manifest`</p>
+<p>Looking to participate in game jams anytime</p>
 
 ### 🏫 Education
 
-Associates Degree from Wayne Community College
-Bachlors Degree from Univesity of Maryland Global Campus
+<p>Associates Degree from Wayne Community College</p>
+<p>Bachlors Degree from Univesity of Maryland Global Campus</p>
 
 ### 💬 Contact
 
-<ul>
-    <li>Discord - saxatile.stoner</li>
-    <li>Twitter - [SaxaphoneStone](https://twitter.com/SaxaphoneStone) </li>
-</ul>
+<p>Discord - saxatile.stoner</p>
+<p>Twitter - <a href=https://twitter.com/SaxaphoneStone>SaxaphoneStone</a></p>
+<p>itch.io - <a href=https://saxatilestoner.itch.io>SaxatileStoner</a></p>
 
 <br>
