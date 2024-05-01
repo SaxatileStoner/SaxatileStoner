@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi There, It's Me, <i>`SaxatileStoner`</i>! 👋
+<i>I go by Stoner or Stoney, either one<i/>
 
 ### <b>`24`</b> <i>`He/Him They/Them`</i>
 
