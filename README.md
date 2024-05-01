@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi There, It's Me, <i>`SaxatileStoner`</i>! 👋
-<i>I go by Stoner or Stoney, either one<i/>
+### Hi There, It's Me, <i>`SaxatileStoner`</i> 👋
+<i>I go by Stoner too<i/>
 
 ### <b>`24`</b> <i>`He/Him They/Them`</i>
 
