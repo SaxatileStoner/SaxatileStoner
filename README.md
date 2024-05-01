@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 Indie Game Developer
 
 ### 🔭 Projects
-<ul>
-    <li>Long term game development for `Project_Manifest`</li>
-</ul>
+
+Long term game development for `Project_Manifest`
 
 ### 🏫 Education
 
