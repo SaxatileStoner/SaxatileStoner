@@ -19,30 +19,11 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🏫 Education:
+### 🏫 Education
 
 <ul>
-    <li>Associates of Science</li>
-    <li>Bachelor of Comp Science (in progress...)</li>
+    <li>Associates Degree from Wayne Community College</li>
+    <li>Bachlors Degree from Univesity of Maryland Global Campus</li>
 </ul>
 
 <br>
-
-### 💽 Languages:
-
-#### Advanced in:
-
-<ul>
-    <li>Java</li>
-    <li>C++</li>
-    <li>Python</li>
-</ul>
-
-#### Learning:
-
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Rust</li>
-</ul>
