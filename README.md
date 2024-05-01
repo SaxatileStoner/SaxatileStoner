@@ -13,11 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi There, It's Me, <i>`SaxatileStoner`</i>! 👋
+### Hi There, It's Me, <i>`SaxatileStoner`</i>! 👋
 
-## <b>`24`</b> <i>`He/Him, They/Them`</i>
+### <b>`24`</b> <i>`He/Him They/Them`</i>
 
 <br>
+
+### ✌️ About Me
+
+Indie Game Developer
+
+### 🔭 Projects
+<ul>
+    <li>Long term game development for `Project_Manifest`</li>
+</ul>
 
 ### 🏫 Education
 
