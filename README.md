@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <p>Long term game development for <code>Project_Manifest</code> </p>
 <p>Looking to participate in game jams anytime</p>
+<p>Currently Looking for Work</p>
 
 ### 🏫 Education
 
