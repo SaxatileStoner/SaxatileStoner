@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi There, It's Me, <i>`SaxatileStoner`</i> 👋
+### Hi There, It's Me, <i>`Stoner`</i> 👋
 ### <b>`24`</b> <i>`He/Him They/Them`</i>
 
 <br>
