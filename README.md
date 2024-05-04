@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### ✌️ About Me
 
 <p>Indie Game Developer</p>
+<p>Computer Scientist</p>
 
 ### 🔭 Projects
 
