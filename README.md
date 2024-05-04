@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🔭 Projects
 
-<p>Long term game development for `Project_Manifest`</p>
+<p>Long term game development for <code>Project_Manifest</code> </p>
 <p>Looking to participate in game jams anytime</p>
 
 ### 🏫 Education
