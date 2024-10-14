@@ -13,31 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi There, It's Me, <i>`Stoner`</i> 👋
+### Hi There, It's Me, <i>`Christopher Stoner`</i> 👋
 ### <b>`24`</b> <i>`He/Him They/Them`</i>
 
 <br>
 
 ### ✌️ About Me
 
-<p>Indie Game Developer</p>
+<p>Software Engineer</p>
 <p>Computer Scientist</p>
+<p>Indie Game Developer</p>
 
 ### 🔭 Projects
 
 <p>Long term game development for <code>Project_Manifest</code> </p>
-<p>Looking to participate in game jams anytime</p>
-<p>Currently Looking for Work</p>
+<p>Various Short Term and Long Term Projects from Undergraduate work</p>
+<p>Looking for other short term to long term projects</p>
 
 ### 🏫 Education
 
-<p>Associates Degree from Wayne Community College</p>
-<p>Bachlors Degree from Univesity of Maryland Global Campus</p>
+<p>Associates Degree from Wayne Community College ... Complete</p>
+<p>Bachlors Degree from Univesity of Maryland Global Campus ... Complete</p>
+<p>Masters Degree from University of Arizona ... In Progress</p>
 
 ### 💬 Contact
 
 <p>Discord - saxatile.stoner</p>
-<p>Twitter - <a href=https://twitter.com/SaxaphoneStone>SaxaphoneStone</a></p>
 <p>itch.io - <a href=https://saxatilestoner.itch.io>SaxatileStoner</a></p>
 
 <br>
